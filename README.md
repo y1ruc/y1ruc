@@ -3,13 +3,13 @@
 
 <img src="https://images.openai.com/static-rsc-4/Txg6y61C9s75yF8Ggsic4hm2wLPBH5DV4eRaT9SfseN5kt6x_TER6REGTVx7xpEkn9K1W19b7r6Oio1-ddBT5ihK2VvUifCX_XtSZol7-okhc04PLVVZ1Neei7hjg0ep1RFQmbJfVoqpC1cuDjWsNA-hgu2bYWbkVMjIZTOsxixI5BQ9XgORrfMhSO6Szop4?purpose=fullsize" width="65%" alt="Winnie the Pooh"/>
 
-# curly 🍯
+# y1ruc 🍯
 
 **cybersecurity student · developer**
 
 *think, think, think.*
 
-[github](https://github.com/devcurly) · [website](https://curly.center)
+[github](https://github.com/y1ruc) · [website](https://curly.center)
 
 </div>
 
@@ -34,13 +34,13 @@ Interested in understanding how software works, discovering vulnerabilities, and
 
 ### featured project
 
-[**Orpheus Audio Engine**](https://github.com/devcurly/Orpheus-Audio-Engine) — a C++ audio engine.
+[**Orpheus Audio Engine**](https://github.com/y1ruc/Orpheus-Audio-Engine) — a C++ audio engine.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devcurly&show_icons=true&hide_border=true&bg_color=00000000&title_color=C49A35&icon_color=66815B&text_color=888888&rank_icon=github" height="140" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=y1ruc&show_icons=true&hide_border=true&bg_color=00000000&title_color=C49A35&icon_color=66815B&text_color=888888&rank_icon=github" height="140" alt="GitHub stats"/>
 
 <sub>stay curious. find your hunny. 🍯</sub>
 
