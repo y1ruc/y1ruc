@@ -14,3 +14,4 @@ can't protect themselves.
 
 *“Sometimes the smallest things take up the most room in your heart.”*
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y1ruc&show_icons=true&theme=transparent&hide_border=true&title_color=d4a64a&icon_color=d4a64a&text_color=bdbdbd)
